@@ -20,11 +20,6 @@ The projects within this organization leverage a broad range of technologies, in
 
 The repositories are organized to help others explore each project's objectives, design, and implementation details. Feel free to browse, learn, and contribute where possible.
 
-
----
-
 <p align="center">
-    <img src="assets/achinkad.png" width="55%" alt="Achinkad"/>
+    <img src="assets/achinkad.png" width="100%" alt="Achinkad"/>
 </p>
-
----
