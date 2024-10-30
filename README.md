@@ -1,7 +1,7 @@
 ## Achinkad
 
 <p align="center">
-    <img src="../assets/achinkad-2.png" width="100%" alt="Achinkad"/>
+    <img src="assets/achinkad-2.png" width="100%" alt="Achinkad"/>
 </p>
 
 Welcome to **Achinkad**, a collection of projects developed during Bachelor’s and Master’s studies at the Polytechnic of Leiria. This organization showcases diverse academic and technical work, reflecting the application of various programming languages and frameworks.
