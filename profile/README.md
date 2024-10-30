@@ -16,8 +16,8 @@ Achinkad is dedicated to sharing projects that demonstrate problem-solving skill
 
 The projects within this organization leverage a broad range of technologies, including:
 
-- **Backend & Web Development**: Laravel, PHP and Rust.
-- **Programming Languages**: C, C#, Java and Python.
+- **Backend & Web Development**: Laravel, PHP and Node.
+- **Programming Languages**: C, C#, Java, Rust and Python.
 - **Frontend Framework**: JavaScript, Vue and React.
 - **Data Science & Analysis**: Jupyter Notebook.
 - **Scripting**: Bash and Perl.
