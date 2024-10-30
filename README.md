@@ -1,5 +1,11 @@
 ## Achinkad
 
+<!---
+<p align="center">
+    <img src="../assets/achinkad.png" width="100%" alt="Achinkad"/>
+</p>
+-->
+
 Welcome to **Achinkad**, a collection of projects developed during Bachelor’s and Master’s studies at the Polytechnic of Leiria. This organization showcases diverse academic and technical work, reflecting the application of various programming languages and frameworks.
 
 ### About
@@ -10,8 +16,8 @@ Achinkad is dedicated to sharing projects that demonstrate problem-solving skill
 
 The projects within this organization leverage a broad range of technologies, including:
 
-- **Backend & Web Development**: Laravel, PHP and Rust.
-- **Programming Languages**: C, C#, Java and Python.
+- **Backend & Web Development**: Laravel, PHP and Node.
+- **Programming Languages**: C, C#, Java, Rust and Python.
 - **Frontend Framework**: JavaScript, Vue and React.
 - **Data Science & Analysis**: Jupyter Notebook.
 - **Scripting**: Bash and Perl.
@@ -19,7 +25,3 @@ The projects within this organization leverage a broad range of technologies, in
 ### Contributions
 
 The repositories are organized to help others explore each project's objectives, design, and implementation details. Feel free to browse, learn, and contribute where possible.
-
-<p align="center">
-    <img src="assets/achinkad.png" width="100%" alt="Achinkad"/>
-</p>
